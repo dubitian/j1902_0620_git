@@ -6,5 +6,5 @@ package com.qf.j1902.pojo;
 public class Dept {
     private int dno;
     private String dname;
-    private String loc;
+    private String lll;
 }
